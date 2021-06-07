@@ -1,0 +1,18 @@
+.list {
+    background-color: red;
+}
+
+h1{
+    border: 3px;
+    border-color: aquamarine;
+}
+p{
+    background-color: pink;
+}
+
+.list{
+    background-color: blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+

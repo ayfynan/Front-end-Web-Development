@@ -1,0 +1,21 @@
+div#header img#logo {
+    width: 150px;
+}
+
+div#header h1 {
+    font-size: 3rem;
+    font-style: italic;
+    text-align: center;
+}
+
+.columnMenu{
+    padding: 15px;
+
+}
+
+.row{
+    background-color: gray;
+}
+
+
+
